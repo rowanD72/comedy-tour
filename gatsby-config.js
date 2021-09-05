@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `39 Cents`,
     description: `Website for 39 cents Highway Comedy Tour information`,
-    author: `@dr3wewbdev`,
+    author: `David Rowan`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
   plugins: [
