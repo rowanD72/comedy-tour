@@ -1,6 +1,6 @@
 {
   "name": "39-highway-tour",
-  "private": true,
+  "private": false,
   "description": "Website for 39 Highway Tour comedy ticket information",
   "version": "0.1.0",
   "author": "David Rowan <davidrowan@dr3webdev.com>",
