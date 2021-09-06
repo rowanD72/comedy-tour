@@ -16,7 +16,7 @@ import {
 const Shows = () => (
   <Layout>
     <Seo title="shows" />
-      <h1>Tour Info</h1>
+      <h1 style={{marginTop:`9rem`}}>Tour Info</h1>
       <Container>
       <Row>
         <Col sm={12} md={4} lg={true} >
